@@ -6,6 +6,9 @@ Uncover more information about the sales patterns of Instacart customers by perf
 
 # Folders
 Project Management: Project Brief
+
 Scripts: Contains the notebooks of Python code used for the initial and exploratory analysis
+
 Analysis: Visualizations used to gather insight
+
 Sent to Client: Final report
